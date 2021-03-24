@@ -1,0 +1,2 @@
+HAL_STM32_SERVO.c:9:6:HAL_STM32_InitServo	8	static
+HAL_STM32_SERVO.c:15:6:HAL_STM32_ServoPosition	0	static

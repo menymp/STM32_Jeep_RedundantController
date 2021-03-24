@@ -1,0 +1,2 @@
+HAL_STM32_UART.c:10:6:HAL_STM32_UART_Init	0	static
+HAL_STM32_UART.c:14:6:HAL_STM32_UART_Transmit	0	static

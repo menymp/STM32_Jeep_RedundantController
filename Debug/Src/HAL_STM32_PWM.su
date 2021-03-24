@@ -1,0 +1,2 @@
+HAL_STM32_PWM.c:9:6:HAL_STM32_InitPWM	8	static
+HAL_STM32_PWM.c:15:6:HAL_STM32_SetPWMDuty	0	static
